@@ -11,10 +11,10 @@ for a supplement brand.
 ## Team
 | Role | Member |
 |---|---|
-| Project Lead & Documentation | [Name] |
-| Data Engineer | [Name] |
-| SQL & Data Modeling | [Name] |
-| BI Developer | [Name] |
+| Project Lead & Documentation | [Mohamed Anwr] |
+| Data Engineer | [Mehad elbahy] |
+| SQL & Data Modeling | [youssef Mohamed] |
+| BI Developer | [Ahmed Nasr] |
 
 ## Project Overview
 [2-3 sentences from the Proposal]
